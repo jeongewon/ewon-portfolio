@@ -1747,7 +1747,7 @@ body svg path{
   width: 55px;
 }
 .site-footer ul {
-  margin-top: 17px;
+  margin-top: 32px;
 }
 .site-footer li .skill{
   margin: 12px 0 5px 0;
@@ -1762,9 +1762,9 @@ body svg path{
   color: #3F4ED5;
   font-weight: 700;
 }
-.site-footer .phpimg img{
+/* .site-footer .phpimg img{
   margin-bottom: 12px;
-}
+} */
 .career{
   margin-top: 15px;
 }
