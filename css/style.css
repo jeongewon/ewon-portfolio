@@ -1772,7 +1772,7 @@ body svg path{
   margin-bottom: 0;
 }
 .teamProject_tt h2{
-  margin: 15px 0 34px 0;
+  margin: 15px 0 10px 0;
 }
 .videodesign_tt h2{
   margin: 18px 0 10px 0;
@@ -1813,4 +1813,7 @@ body svg path{
   margin: 0 0 0 3px;
   font-weight: 400;
   color: #3F4ED5;
+}
+.designpart{
+  margin-bottom: 20px;
 }
