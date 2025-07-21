@@ -1628,7 +1628,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       margin-bottom: 30px; }
     .site-footer .widget .social li {
       display: inline-block; 
-      margin-right: 40px;}
+      margin-right: 18px;}
       .site-footer .widget .social li a {
         width: 42px;
         height: 42px;
@@ -1744,7 +1744,7 @@ body svg path{
   fill: #3F4ED5;
 }
 .site-footer img {
-  width: 55px;
+  width: 45px;
 }
 .site-footer ul {
   margin-top: 32px;
@@ -1816,4 +1816,10 @@ body svg path{
 }
 .designpart{
   margin-bottom: 20px;
+}
+.html_img img{
+  width: 40px;
+}
+.ppt_img img{
+  width: 47px;
 }
